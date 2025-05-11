@@ -27,6 +27,6 @@ This is a **basic front-end clone of the Udemy website** built using **HTML** an
 
 ## 🌐 Live Demo
 
-\[Add your GitHub Pages or hosting link here]
+\[https://gunasekaran07.github.io/Udemy-Clone-/]
 
 
