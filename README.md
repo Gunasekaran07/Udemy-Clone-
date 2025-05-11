@@ -20,7 +20,7 @@ This is a **basic front-end clone of the Udemy website** built using **HTML** an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/udemy-clone.git
+   https://gunasekaran07.github.io/Udemy-Clone-/
    ```
 2. Open `index.html` in your web browser.
 
